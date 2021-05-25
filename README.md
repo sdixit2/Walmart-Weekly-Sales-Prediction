@@ -9,4 +9,8 @@ This Project has 4 phases:-
 3) Evaluation Phase:- In the Evaluation Phase, I compared the performance of all the models on parameters like Coefficient of Regression, Mean Absolute Error, and Root mean square error. 
 4) Prediction Phase:- In the Prediction Phase, I chose the best model and used that to predict the Weekly Sales for the test data.
 
+Applications:- Jupyter Notebook
+Programming language:- Python
+Libraries used:- pandas, matplotlib, numpy, sklearn, xgboost, seaborn, prettytable
+OS:- Windows
 You can download the .ipynb File Attached and run it in jupyter notebook or Google Colab
